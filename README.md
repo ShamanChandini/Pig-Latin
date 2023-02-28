@@ -3,8 +3,11 @@
 ## Commands used to execute Pig Latin in CMD
 
 `1. Open and run CMD as administrator` 
+
 `2. type pig -x local`
+
 `3. Enter 'Load "filename"' `
+
 `4. type 'Exec file_name.pig'`
 
 ### pig grunt shell
